@@ -18,3 +18,6 @@ This organisation hosts the following repositories:
 - [model-training-and-deployment](https://github.com/satellite-image-deep-learning/model-training-and-deployment): lists information on the training and deployment of deep learning models
 - [software](https://github.com/satellite-image-deep-learning/software): for working with satellite & aerial imagery data & datasets
 - [techniques](https://github.com/satellite-image-deep-learning/techniques): for deep learning with satellite & aerial imagery
+
+## Become a corporate sponsor
+Corporate sponsors are invited to support the work of this organisation. Sponsors will get their corporate logo and information featured on repositories of their choice. To enquire about becoming a sponsor [please email Robin Cole](mailto:robin@deep-field-insights.com) 
