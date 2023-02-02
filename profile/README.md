@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://www.satellite-image-deep-learning.com/" target="_blank">
+    <a href="https://www.satellite-image-deep-learning.com/">
         <img src="logo.png" width="700">
     </a>
 </p>
