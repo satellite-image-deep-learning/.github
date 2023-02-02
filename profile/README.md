@@ -4,9 +4,21 @@
 <img src="logo.png" width="700">
 </p>
 
-Thie satellite-image-deep-learning organisation provides resources deep learning applied to satellite and aerial imagery. Learn more at:
+<div id="top"></div>
+
+<div align="center">
+  <p>
+    <a href="ttps://www.satellite-image-deep-learning.com/" target="_blank">
+        <img src="logo.png">
+    </a>
+</p>
+  <h2>The satellite-image-deep-learning organisation provides resources deep learning applied to satellite and aerial imagery.</h2>
+
+The satellite-image-deep-learning organisation provides resources deep learning applied to satellite and aerial imagery. Learn more at:
 
 # 👉 [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) 👈
+
+</div>
 
 ## Repositories
 This organisation hosts the following repositories:
