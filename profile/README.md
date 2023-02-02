@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <div align="center">
   <p>
     <a href="https://www.satellite-image-deep-learning.com/" target="_blank">
