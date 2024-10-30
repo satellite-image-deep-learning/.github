@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://www.satellite-image-deep-learning.com/">
-        <img src="logo.png" width="700">
+        <img src="https://github.com/satellite-image-deep-learning/.github/blob/main/logo.png" width="700">
     </a>
 </p>
   <h2>The satellite-image-deep-learning organisation provides resources on deep learning applied to satellite and aerial imagery.</h2>
