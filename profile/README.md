@@ -21,6 +21,3 @@ This organisation hosts the following repositories:
 
 ## 📝 How to contribute
 All repositories are open to contributions from the community. Simply fork a repository, make your edits, and create a pull request
-
-## 🎖️ Become a sponsor
-Becoming a sponsor is a great way to gain visibility with people working in this space. The repositories of this organisation get hundreds of visits per days, and sponsors can have their company logo and information featured on the repository of their choice. To enquire about becoming a sponsor [please email Robin Cole](mailto:robmarkcole@gmail.com)
